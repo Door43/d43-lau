@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lau:home|Door43 (lau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lau|d43-lau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lau/archive/master.zip|d43-lau.zip]]
+
+**Recent Changes**
+{{changes>ns = lau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lau|Ethnologue data]]
+
